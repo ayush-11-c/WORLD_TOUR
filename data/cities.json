@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": "63c9",
+      "cityName": "Orai",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-04-04T10:46:20.171Z",
+      "notes": "Village",
+      "position": {
+        "lat": "25.95445141816328",
+        "lng": "79.46960449218751"
+      }
+    },
+    {
+      "id": "30a8",
+      "cityName": "Jhansi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-04-04T10:46:30.725Z",
+      "notes": "Village",
+      "position": {
+        "lat": "25.429687148065792",
+        "lng": "78.5687255859375"
+      }
+    },
+    {
+      "id": "5a61",
+      "cityName": "Bhopal",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-04-04T10:47:07.048Z",
+      "notes": "ssb",
+      "position": {
+        "lat": "23.2183198575796",
+        "lng": "77.40966796875001"
+      }
+    },
+    {
+      "id": "5988",
+      "cityName": "Bengaluru",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-04-04T10:47:46.695Z",
+      "notes": "ssb",
+      "position": {
+        "lat": "12.967483320334429",
+        "lng": "77.59094238281251"
+      }
+    }
+  ]
+}
